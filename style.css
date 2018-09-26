@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+}
+*{
+    background-image: url("bkg5.jpg");
+    background-repeat: no-repeat;
+    background-position: url("bkg1.jpg");
+    background-repeat: no-repeat;
+}
+.Section5{
+    width: 10%;
+    height: 98vh;
+}
+
+
